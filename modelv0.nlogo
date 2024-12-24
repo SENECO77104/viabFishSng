@@ -1,6 +1,6 @@
 breed [boats boat]
 breed [villages village]
-
+breed[bathies bathie]
 globals [
   ;; GIS Data
   myEnvelope
